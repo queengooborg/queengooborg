@@ -1,6 +1,6 @@
 ![](http://www.queengoob.org/static/images/virtualintensity_webposter.jpg)
 
-#I am Queen Vinyl Darkscratch-Kazotetsu (she/her)
+# I am Queen Vinyl Darkscratch-Kazotetsu (she/her)
 
 ## About
 I am a freelance web developer and entrepeneur looking to make the world a better place, one line of code at a time.  I am most fluent in Python, web2py, JavaScript (incl. NodeJS), and ReactJS, with additional experience with C, C++, C#, Lua, Java, BASIC, and Minecraft Commands.
