@@ -3,24 +3,35 @@
 # I am Queen Vinyl Darkscratch-Kazotetsu (she/her)
 
 ## About
-I am a freelance web developer and entrepeneur looking to make the world a better place, one line of code at a time.  I am most fluent in Python, web2py, JavaScript (incl. NodeJS), and ReactJS, with additional experience with C, C++, C#, Lua, Java, BASIC, and Minecraft Commands.
+
+Pronouns: she/her
+
+Spoken Languages: English
+
+Coding Languages (Main): Python, JavaScript/NodeJS
+
+Coding Languages (Other): C, C++, C#, Lua, Java, BASIC
+
+Likes: Goo, EDM (mainly Dubstep, Trap), Beat Saber, Dogs
+
+Job Status: Contracting for Google, Fox and Geese; Open for more work
+
+## Current Projects
+
+[MDN Web Docs' Browser Compat Data](https://github.com/mdn/browser-compat-data) (Contracted by Google)
+
+[BCD Auto-Collecotr](https://github.com/foolip/mdn-bcd-collector) (Contracted by Google)
+
+[Gooicons](https://github.com/GooborgStudios/gooicons)
+
+A computer repair shop ticketing system written in ReactJS + web2py (name TBD)
 
 ## Contact
+
 https://www.queengoob.org
+
 Telegram: [vinyldarkscratch](https://t.me/vinyldarkscratch)
+
 Twitter: [vdscratchy](https://twitter.com/vdscratchy)
 
-<!--
-**vinyldarkscratch/vinyldarkscratch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: vinyldarkscratch@gmail.com
