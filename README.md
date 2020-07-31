@@ -1,6 +1,7 @@
 ![](http://www.queengoob.org/static/images/virtualintensity_webposter.jpg)
 
-# I am Queen Vinyl Darkscratch-Kazotetsu (she/her)
+### I am Queen Vinyl Darkscratch-Kazotetsu
+
 
 ## About
 
