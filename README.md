@@ -1,7 +1,7 @@
 ![](http://www.queengoob.org/static/images/virtualintensity_webposter.jpg)
 
 ### I am Queen Vinyl Darkscratch-Kazotetsu
-Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic.
+Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic, left-handed.
 
 
 ## About
