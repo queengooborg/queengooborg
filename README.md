@@ -22,11 +22,9 @@ Job Status: Contracting for Google, Fox and Geese; Open for more work
 
 [MDN Web Docs' Browser Compat Data](https://github.com/mdn/browser-compat-data) (Contracted by Google)
 
-[BCD Auto-Collecotr](https://github.com/foolip/mdn-bcd-collector) (Contracted by Google)
+[BCD Auto-Collector](https://github.com/foolip/mdn-bcd-collector) (Contracted by Google)
 
 [Gooicons](https://github.com/GooborgStudios/gooicons)
-
-A computer repair shop ticketing system written in ReactJS + web2py (name TBD)
 
 ## Contact
 
