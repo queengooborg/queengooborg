@@ -34,4 +34,4 @@ Telegram: [vinyldarkscratch](https://t.me/vinyldarkscratch)
 
 Twitter: [vdscratchy](https://twitter.com/vdscratchy)
 
-Email: vinyldarkscratch@gmail.com
+Matrix: [vinyldarkscratch:matrix.org](https://matrix.to/#/@vinyldarkscratch:matrix.org)
