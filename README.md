@@ -1,14 +1,14 @@
 ![](http://www.queengoob.org/static/images/virtualintensity_webposter.jpg)
 
-### I am Queen Vinyl Darkscratch-Kazotetsu
-Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic, left-handed.
+### I am Queen Vinyl Da.i'gyu-Kazotetsu
+Formerly Vinyl Darkscratch-Kazotetsu. Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic, left-handed.
 
 
 ## About
 
 Pronouns: she/her
 
-Spoken Languages: English
+Spoken Languages: English (some Spanish, very little Japanese)
 
 Coding Languages (Main): Python, JavaScript/NodeJS
 
@@ -16,7 +16,7 @@ Coding Languages (Other): C, C++, C#, Lua, Java, BASIC
 
 Likes: Goo, EDM (mainly Dubstep, Trap), Beat Saber, Dogs
 
-Job Status: Contracting for Google, Fox and Geese; Open for more work
+Job Status: Founder of Gooborg Studios, contracting for Google, Fox and Geese; Open for more work
 
 ## Current Projects
 
