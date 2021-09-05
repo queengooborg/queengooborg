@@ -30,8 +30,8 @@ Job Status: Founder of Gooborg Studios, contracting for Google, Fox and Geese; O
 
 https://www.queengoob.org
 
-Telegram: [vinyldarkscratch](https://t.me/vinyldarkscratch)
+Telegram: [queengooborg](https://t.me/queengooborg)
 
-Twitter: [vdscratchy](https://twitter.com/vdscratchy)
+Twitter: [queengooborg](https://twitter.com/queengooborg)
 
 Matrix: [vinyldarkscratch:matrix.org](https://matrix.to/#/@vinyldarkscratch:matrix.org)
