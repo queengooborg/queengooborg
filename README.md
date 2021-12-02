@@ -1,6 +1,9 @@
 ![](http://www.queengoob.org/static/images/virtualintensity_webposter.jpg)
 
 ### I am Queen Vinyl Da.i'gyu-Kazotetsu
+
+(Pronounced V-eye-null Dah-ee-ghee-you Kah-zoh-teh-tsoo)
+
 Formerly Vinyl Darkscratch-Kazotetsu. Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic, left-handed.
 
 
