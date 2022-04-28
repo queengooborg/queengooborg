@@ -23,9 +23,9 @@ Job Status: Founder of Gooborg Studios, contracting for Google, Fox and Geese; O
 
 ## Current Projects
 
-[MDN Web Docs' Browser Compat Data](https://github.com/mdn/browser-compat-data) (Contracted by Open Web Docs, prev. Google)
+[MDN Web Docs' Browser Compat Data](https://github.com/mdn/browser-compat-data) (Contracted by Open Web Docs + Mozilla, prev. Google)
 
-[BCD Auto-Collector](https://github.com/foolip/mdn-bcd-collector) (Contracted by Open Web Docs, prev. Google)
+[BCD Auto-Collector](https://github.com/foolip/mdn-bcd-collector) (Contracted by Open Web Docs + Mozilla, prev. Google)
 
 [Gooicons](https://github.com/GooborgStudios/gooicons)
 
