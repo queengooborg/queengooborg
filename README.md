@@ -4,7 +4,7 @@
 
 (Pronounced V-eye-null Dah-ee-ghee-you Kah-zoh-teh-tsoo)
 
-Formerly Vinyl Darkscratch-Kazotetsu. Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic, left-handed.
+Formerly Vinyl Darkscratch-Kazotetsu. Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic, left-handed, queen of goo.
 
 
 ## About
@@ -19,7 +19,7 @@ Coding Languages (Other): C, C++, C#, Lua, Java, BASIC
 
 Likes: Goo, EDM (mainly Dubstep, Trap), Beat Saber, Dogs
 
-Job Status: Founder of Gooborg Studios, contracting for Google, Fox and Geese; Open for more work
+Job Status: Founder of Gooborg Studios, contracting for Open Web Docs and Mozilla (prev. Google); Open for more work
 
 ## Current Projects
 
