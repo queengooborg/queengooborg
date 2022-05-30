@@ -19,7 +19,7 @@ Coding Languages (Other): C, C++, C#, Lua, Java, BASIC
 
 Likes: Goo, EDM (mainly Dubstep, Color Bass), Beat Saber
 
-Job Status: Founder of Gooborg Studios, contracting for Open Web Docs and Mozilla (prev. Google); Open for more work
+Job Status: Founder of Gooborg Studios, contracting for Open Web Docs and Mozilla (prev. Google)
 
 ## Current Projects
 
