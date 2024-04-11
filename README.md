@@ -36,3 +36,13 @@ https://www.queengoob.org
 Telegram: [queengooborg](https://t.me/queengooborg)
 
 Matrix: [queengooborg:matrix.org](https://matrix.to/#/@queengooborg:matrix.org)
+
+## Support
+
+There are two ways that you can support me:
+
+- For my web documentation work (MDN browser-compat-data, Open Web Docs, etc.), you can support me by supporting Open Web Docs:
+  - https://opencollective.com/open-web-docs
+- For all other projects (gooicons, Minecraft worth.yml, free-dmo-stm32, etc.), you can support me directly:
+  - https://ko-fi.com/queengooborg
+  - https://paypal.me/VinylDarkscratch
