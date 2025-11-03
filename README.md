@@ -17,17 +17,29 @@ Coding Languages (Main): Python, JavaScript/NodeJS
 
 Coding Languages (Other): C, C++, C#, Lua, Ruby, Java, BASIC
 
-Likes: Goo, EDM (mainly Dubstep, Color Bass), Beat Saber
+Likes: Goo, EDM (mainly Color Bass), Beat Saber
 
-Position: Founder of Gooborg Studios, contracting for Open Web Docs and Mozilla (prev. Google)
+Status: Open for Hire!
 
-## Current Projects
+## Projects
 
-[MDN Web Docs' Browser Compat Data](https://github.com/mdn/browser-compat-data) (Contracted by Open Web Docs, prev. Google + Mozilla)
+### Current
 
-[BCD Data Collector](https://github.com/foolip/mdn-bcd-collector) (Contracted by Open Web Docs, prev. Google + Mozilla)
+[OpenTag3D](https://opentag3d.info/) - an open source filament RFID protocol
+
+[Filament Shredding Sorting Project](https://github.com/queengooborg/regrind-color-sort)
 
 [Gooicons](https://github.com/GooborgStudios/gooicons)
+
+### Previous
+
+[MDN Web Docs' Browser Compat Data](https://github.com/mdn/browser-compat-data) (Via Open Web Docs, prev. Google + Mozilla)
+
+[BCD Data Collector](https://github.com/openwebdocs/mdn-bcd-collector) (Via Open Web Docs, prev. Google + Mozilla)
+
+macOS Port of OneShot (Video Game)
+
+And many more!
 
 ## Contact
 
@@ -39,10 +51,6 @@ Matrix: [queengooborg:matrix.org](https://matrix.to/#/@queengooborg:matrix.org)
 
 ## Support
 
-There are two ways that you can support me:
+If you'd like to support me and the work that I do, please consider supporting me via Ko-Fi!
 
-- For my web documentation work (MDN browser-compat-data, mdn-bcd-collector, etc.), you can support me by supporting Open Web Docs:
-  - https://opencollective.com/open-web-docs
-- For all other projects (gooicons, Minecraft worth.yml, free-dmo-stm32, etc.), you can support me directly:
-  - https://ko-fi.com/queengooborg
-  - https://paypal.me/VinylDarkscratch
+<a href='https://ko-fi.com/queengooborg' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
