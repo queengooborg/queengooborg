@@ -4,14 +4,14 @@
 
 (Pronounced V-eye-null Dah-ee-gh-you Kah-zoh-teht-soo)
 
-Formerly Vinyl Darkscratch-Kazotetsu. Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic, left-handed, queen of goo.
+Formerly Vinyl Darkscratch-Kazotetsu. Web and software developer, EDM visualizer animator, Beat Saber fanatic, workaholic, left-handed, dragon, queen of goo.
 
 
 ## About
 
 Pronouns: she/her
 
-Spoken Languages: English, some Spanish
+Spoken Languages: English, some Spanish, studying Japanese
 
 Coding Languages (Main): Python, JavaScript/NodeJS
 
@@ -30,6 +30,8 @@ Status: Open for Hire!
 [Filament Shredding Sorting Project](https://github.com/queengooborg/regrind-color-sort)
 
 [Gooicons](https://github.com/GooborgStudios/gooicons)
+
+[mc-toolkit](https://github.com/queengooborg/mc-toolkit) - a hobby project to scan Minecraft's source code and parse crafting recipes, etc. for various purposes
 
 ### Previous
 
